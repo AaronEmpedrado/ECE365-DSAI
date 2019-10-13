@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/StackandQueueV2.dir/main.cpp.o  -o StackandQueueV2.exe -Wl,--out-implib,libStackandQueueV2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
