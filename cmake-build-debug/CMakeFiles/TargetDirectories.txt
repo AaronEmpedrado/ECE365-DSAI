@@ -1,3 +1,0 @@
-/cygdrive/c/Users/lu/CLionProjects/StackandQueueV2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/lu/CLionProjects/StackandQueueV2/cmake-build-debug/CMakeFiles/StackandQueueV2.dir
-/cygdrive/c/Users/lu/CLionProjects/StackandQueueV2/cmake-build-debug/CMakeFiles/edit_cache.dir
